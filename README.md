@@ -1,4 +1,4 @@
-ESP Programmer 2
+ESP Programmer
 Advanced program for flashing and managing ESP8266 and ESP32 boards via a graphical interface.
 Simple, lightweight, and with no external dependencies.
 ________________________________________
